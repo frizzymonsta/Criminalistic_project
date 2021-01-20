@@ -2,5 +2,6 @@
 .gz
 .idea
 ~$ntest_suricata_report.docx
-log_view.py
+logs/log_view.py
 !output/output.json
+compare
