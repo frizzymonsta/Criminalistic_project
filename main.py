@@ -1,8 +1,8 @@
 import json
 
 # Импорт логов событий Windows и алертов Surikata
-general = 'suricata_alert.json'
-events = 'WinEventLog.json'
+general = 'logs/suricata_alert.json'
+events = 'logs/WinEventLog.json'
 
 
 # Функция, выгружающая данные из json файлов, в т.ч. указатели.
@@ -47,5 +47,5 @@ for entry in entries:
 
 
 # Запись в файл вывода.
-with open('output.json', 'w') as out_file:
+with open('output/output.json', 'w') as out_file:
     out_file.write(json.dumps(collision, indent=2))
