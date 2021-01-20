@@ -1,5 +1,5 @@
 *.json
-*.gz
+.gz
 .idea
 ~$ntest_suricata_report.docx
 log_view.py
