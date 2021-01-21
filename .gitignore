@@ -1,7 +1,7 @@
 *.json
 .gz
 .idea
-~$ntest_suricata_report.docx
+~$ntest suricata.docx
 logs/log_view.py
 !output/output.json
 compare
