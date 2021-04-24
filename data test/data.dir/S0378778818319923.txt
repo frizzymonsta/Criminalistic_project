@@ -1,0 +1,11 @@
+Jan Frankowski,
+Attention: smog alert! Citizen engagement for clean air and its consequences for fuel poverty in Poland,
+Energy and Buildings,
+Volume 207,
+2020,
+109525,
+ISSN 0378-7788,
+https://doi.org/10.1016/j.enbuild.2019.109525.
+(https://www.sciencedirect.com/science/article/pii/S0378778818319923)
+Abstract: Increasing socio-ecological crisis, an emerging awareness of the common good and growth in popularity of mobile applications brought bottom-up movements to the fight for clean air. Smog alerts emerged in every major Polish city affected by dramatically low air quality. Because of the spontaneous and informal character of smog alerts, knowledge about the scale, precise scope of their activities and attitudes towards fuel poverty is limited. The aim of this paper is to explore the role of smog alerts in resolving air pollution and fuel poverty issues. The web content mining, media discourse analysis and individual interviews with policymakers have been employed to examine smog alerts scale, focal subject, impact and role in fuel poverty alleviation. Results suggested that the majority of active smog alerts acknowledged the importance of fuel poverty. They also played an essential role in fostering air pollution awareness among national and local policymakers.
+Keywords: Air quality; Fuel poverty; Smog alerts; Grassroots engagement; Poland; Energy resources; Energy sustainability

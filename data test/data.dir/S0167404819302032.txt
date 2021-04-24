@@ -1,0 +1,11 @@
+Ehsan Mahdavi, Ali Fanian, Fatima Amini,
+A real-time alert correlation method based on code-books for intrusion detection systems,
+Computers & Security,
+Volume 89,
+2020,
+101661,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2019.101661.
+(https://www.sciencedirect.com/science/article/pii/S0167404819302032)
+Abstract: Alert Correlation is the process of analyzing alerts to reduce their number, eliminate false positives, detect the scenarios behind them and generate a higher perspective of the incidents. Making this process online will upgrade the classic role of alert correlation from being a post-process step to a key part of intrusion detection systems. In this article, we propose a novel two-phase model called a Real-time Alert Correlation method based on Code-books (RACC) for intrusion detection systems. First, in the offline phase, RACC pre-processes a knowledge base to propose some matrices as the main data structure of the method that we call them code-books. Instead of keeping alerts in the memory, those matrices just hold keys to the corresponding meta-alerts. An index that is based upon red-black trees is used to access matrix elements. Generating the matrices and mentioned index are independent from the alerts, so utilizing them can facilitate the alert correlation process in an online manner in phase two of the proposed model. The experiments show that compared to similar methods, RACC can significantly reduce the alert correlation time and can enable real-time alert correlation.
+Keywords: Network security; Intrusion detection systems; Alert; Online alert correlation; Attack scenario; Causal relationships; Code-books

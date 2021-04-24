@@ -1,0 +1,11 @@
+Riyanat Shittu, Alex Healing, Robert Ghanea-Hercock, Robin Bloomfield, Muttukrishnan Rajarajan,
+Intrusion alert prioritisation and attack detection using post-correlation analysis,
+Computers & Security,
+Volume 50,
+2015,
+Pages 1-15,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2014.12.003.
+(https://www.sciencedirect.com/science/article/pii/S0167404814001837)
+Abstract: Event Correlation used to be a widely used technique for interpreting alert logs and discovering network attacks. However, due to the scale and complexity of today's networks and attacks, alert logs produced by these modern networks are much larger in volume and difficult to analyse. In this research we show that adding post-correlation methods can be used alongside correlation to significantly improve the analysis of alert logs. We proposed a new framework titled A Comprehensive System for Analysing Intrusion Alerts (ACSAnIA). The post-correlation methods include a new prioritisation metric based on anomaly detection and a novel approach to clustering events using correlation knowledge. One of the key benefits of the framework is that it significantly reduces false-positive alerts and it adds contextual information to true-positive alerts. We evaluated the post-correlation methods of ACSAnIA using data from a 2012 cyber range experiment carried out by industrial partners of the British Telecom Security Practice Team. In one scenario, our results show that false-positives were successfully reduced by 97% and in another scenario, 16%. It also showed that clustering correlated alerts aided in attack detection. The proposed framework is also being developed and integrated into a pre-existing Visual Analytic tool developed by the British Telecom SATURN Research Team for the analysis of cyber security data.
+Keywords: Alert correlation; Prioritisation; Clustering; Intrusion alert analysis; Anomaly detection

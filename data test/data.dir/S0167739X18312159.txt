@@ -1,0 +1,11 @@
+Flora Amato, Vincenzo Moscato, Antonio Picariello, Giancarlo Sperli’ì,
+Extreme events management using multimedia social networks,
+Future Generation Computer Systems,
+Volume 94,
+2019,
+Pages 444-452,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2018.11.035.
+(https://www.sciencedirect.com/science/article/pii/S0167739X18312159)
+Abstract: Although various researches have demonstrated that Social Networks offer a great opportunity to detect and manage emergencies and disasters in real life applications, in this paper we will show how the use of Multimedia Big Data extracted from modern On-Line Social Nets may enhance both the real time detection and the alerts diffusion in a well defined geographic area. In particular, we propose a Multimedia Big Data system that use both an incremental clustering event detection approach enriched with the analysis of multimedia content and a bio-inspired influence analysis technique, to support alert spread over a social network. Experiments are carried out on a real case study.
+Keywords: Big data; Influence analysis; Online multimedia social networks; Event detection; Extreme events management

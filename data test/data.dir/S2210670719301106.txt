@@ -1,0 +1,11 @@
+Hayden Strickling, Morgan Faye DiCarlo, M. Ehsan Shafiee, Emily Berglund,
+Simulation of containment and wireless emergency alerts within targeted pressure zones for water contamination management,
+Sustainable Cities and Society,
+Volume 52,
+2020,
+101820,
+ISSN 2210-6707,
+https://doi.org/10.1016/j.scs.2019.101820.
+(https://www.sciencedirect.com/science/article/pii/S2210670719301106)
+Abstract: A sustainably managed city should implement strategies to mitigate water distribution contamination events and warn consumers. A modeling framework is developed to assess management strategies for issuing warnings via wireless emergency alerts (WEA) and isolating a contaminant by manipulating pumps and hydrants. A pressure zone-based paradigm divides a service area into sub-sections of similar pressures and is used to target WEA messages and contain and flush contaminant within affected zones. The framework couples a hydraulic model of a pipe network with an agent-based model of utility operators, who implement management strategies, and of consumers, who receive messages, comply with alerts, reduce water use, and communicate about the hazard. The framework is applied for a hypothetical city to test management strategies for two water contamination events. Targeted messages mitigate the loss of access to water supplies and perform similar to citywide messages in reducing the number of exposed consumers, when combined with containment operations. When warnings are used alone, citywide warnings protect more consumers compared with targeted broadcasts. Warnings may perform better than containment alone at times when critical social dynamics, such as ingestion of water and travel among pressure zones, coincide with the movement of a contaminant plume.
+Keywords: SMS text; Wireless emergency alerts; Pressure zones; Water distribution system management; Security

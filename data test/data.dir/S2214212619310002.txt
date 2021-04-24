@@ -1,0 +1,11 @@
+Hao Hu, Jing Liu, Yuchen Zhang, Yuling Liu, Xiaoyu Xu, Jinglei Tan,
+Attack scenario reconstruction approach using attack graph and alert data mining,
+Journal of Information Security and Applications,
+Volume 54,
+2020,
+102522,
+ISSN 2214-2126,
+https://doi.org/10.1016/j.jisa.2020.102522.
+(https://www.sciencedirect.com/science/article/pii/S2214212619310002)
+Abstract: Existing alert correlation methods do not consider the unsuccessful paths and true negative alerts of IDS, which affects the completeness and visualization of attack restoring. To overcome this, an attack graph based alert correlation approach is proposed. The attack graph is first created using the toolkit MulVAL based on the network connectivity and known vulnerabilities, which gives the full view of all the vulnerabilities and their interdependence. Then, the alerts were mapped to attack graph to exhibit the intrusion situation initially. Afterwards, the attack sequences are output from the set of mapped alerts to reflect the initial attack paths. Afterwards, similar attack sequences are clustered together to obtain the preliminary attack scenarios. Finally, by analyzing the cohesive relationship between the subscenarios, the unreported true negative alerts are detected to improve the reconstruction by merging the broken attack scenarios. Experiments on the tested network and Defcon CTF23 dataset indicate that the proposed approach can restore attack scenarios more completely and further be used for attack forensics and traceability as well as for providing visualization support for comprehensive vulnerability analysis and targeted intrusion prevention.
+Keywords: Alert correlation; Attack scenario reconstruction; Attack graph; Attack sequences clustering; Data mining

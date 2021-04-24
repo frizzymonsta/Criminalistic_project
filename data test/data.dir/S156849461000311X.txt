@@ -1,0 +1,11 @@
+Huwaida Tagelsir Elshoush, Izzeldin Mohamed Osman,
+Alert correlation in collaborative intelligent intrusion detection systems—A survey,
+Applied Soft Computing,
+Volume 11, Issue 7,
+2011,
+Pages 4349-4365,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2010.12.004.
+(https://www.sciencedirect.com/science/article/pii/S156849461000311X)
+Abstract: As complete prevention of computer attacks is not possible, intrusion detection systems (IDSs) play a very important role in minimizing the damage caused by different computer attacks. There are two intrusion detection methods: namely misuse- and anomaly-based. A collaborative, intelligent intrusion detection system (CIIDS) is proposed to include both methods, since it is concluded from recent research that the performance of an individual detection engine is rarely satisfactory. In particular, two main challenges in current collaborative intrusion detection systems (CIDSs) research are highlighted and reviewed: CIDSs system architectures and alert correlation algorithms. Different CIDSs system, architectures are explained and compared. The use of CIDSs together with other multiple security systems raise certain issues and challenges in, alert correlation. Several different techniques for alert correlation are discussed. The focus will be on correlation of CIIDS alerts. Computational, Intelligence approaches, together with their applications on IDSs, are reviewed. Methods in soft computing collectively provide understandable, and autonomous solutions to IDS problems. At the end of the review, the paper suggests fuzzy logic, soft computing and other AI techniques, to be exploited to reduce the rate of false alarms while keeping the detection rate high. In conclusion, the paper highlights opportunities for an integrated solution to large-scale CIIDS.
+Keywords: Alert correlation; Collaborative intrusion detection; False positive analysis; Computational intelligence approaches

@@ -1,0 +1,11 @@
+Yinka M. Somorin, Olumide A. Odeyemi, Collins N. Ateba,
+Salmonella is the most common foodborne pathogen in African food exports to the European Union: Analysis of the Rapid Alert System for Food and Feed (1999–2019),
+Food Control,
+Volume 123,
+2021,
+107849,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2020.107849.
+(https://www.sciencedirect.com/science/article/pii/S0956713520307659)
+Abstract: Global food imports, including those from Africa, constitute an integral part of the food chain in the European Union (EU) and a potential source of food hazards. Foodborne pathogens are among the food hazards that do not only impact on public health but also have economic implications for exporters. The Rapid Alert System for Food and Feed (RASFF) is an important tool for reporting and communicating food safety risks among EU Member States and EEA countries. This study aimed to identify the common foodborne pathogens in foods originating from African countries to the EU between 1999 and 2019 by analysing RASFF notifications. A total of 596 notifications were reported by 19 countries due to the presence of pathogenic microorganisms (PM) in food originating from 27 African countries. The highest number of notifications related to Greece (n = 228) and most of the PM notifications were border rejections (60.6%). PM notifications increased from 17 (2016) to 46 (2017) and 173 (2019). Salmonella was the most predominant pathogen notified, accounting for 523 (87.8%) of PM notifications. Over half (52%) of the Salmonella notifications were from foods originating from Eastern Africa, followed by Western Africa (n = 145; 28%), and the country with the highest Salmonella contamination was Sudan (n = 182). The most important product category contaminated with Salmonella was “nuts, nut products and seeds” (n = 343), with majority (n = 335) being sesame seeds. Evaluation of the RASFF risk decision listed for each notification showed that 97% of Salmonella-contaminated sesame seeds posed serious risks to consumers. African countries exporting food products to the EU must strengthen their food safety systems to prevent the huge economic losses resulting from non-compliance with EU food safety standards.
+Keywords: Foodborne pathogens; Food export; Trade barrier; RASFF notifications; Africa; Food safety regulations

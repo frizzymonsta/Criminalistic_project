@@ -1,0 +1,11 @@
+Mingtao Wu, Young Moon,
+Alert Correlation for Cyber-Manufacturing Intrusion Detection,
+Procedia Manufacturing,
+Volume 34,
+2019,
+Pages 820-831,
+ISSN 2351-9789,
+https://doi.org/10.1016/j.promfg.2019.06.197.
+(https://www.sciencedirect.com/science/article/pii/S2351978919309278)
+Abstract: With the deployment of intrusion detection systems (IDS) in Cyber-Manufacturing System (CMS), both cyber alerts and physical alerts need to be managed effectively. In this research, an alert correlation method based on temporal and attribute-based similarity analyses is presented. Intrusion detection message exchange format (IDMEF) is introduced, along with a new physical intrusion detection alert (PIDA) format for reporting and correlating physical alerts with cyber alters. A five-step alert correlation process has been developed for cyber-physical alert correlations in CMS. To test the alert correlation method, an experiment has been carried out on a CMS security testbed. SQL injection and Nmap scanning tool are used for cyber-attacks and interferences; CNC milling and heat treatment processes are adopted as physical attack targets. The results show that the alert correlation method can reduce the false alerts significantly.
+Keywords: Cyber-Manufacturing system; intrusion detection; alert correlation; security

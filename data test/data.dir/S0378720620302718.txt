@@ -1,0 +1,11 @@
+Romilla Syed,
+Cybersecurity vulnerability management: A conceptual ontology and cyber intelligence alert system,
+Information & Management,
+Volume 57, Issue 6,
+2020,
+103334,
+ISSN 0378-7206,
+https://doi.org/10.1016/j.im.2020.103334.
+(https://www.sciencedirect.com/science/article/pii/S0378720620302718)
+Abstract: Effective vulnerability management requires the integration of vulnerability information available on multiple sources, including social media. The information could be used to inform common users about impending vulnerabilities and countermeasures. First, we present the Cybersecurity Vulnerability Ontology (CVO), a conceptual model for formal knowledge representation of the vulnerability management domain. Second, we utilize the CVO to design a Cyber Intelligence Alert (CIA) system that issues cyber alerts about vulnerabilities and countermeasures. We rigorously evaluated the CVO as well as the accuracy, performance, and usefulness of the CIA system. Key contributions of this study to research and practice are discussed.
+Keywords: Cybersecurity vulnerability; Vulnerability management; Social media intelligence; Ontology; Conceptual modeling; Cyberalerts

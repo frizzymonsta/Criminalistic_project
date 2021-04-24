@@ -1,0 +1,11 @@
+P. Krishna Krishnamurthy, Richard J. Choularton, Peter Kareiva,
+Dealing with uncertainty in famine predictions: How complex events affect food security early warning skill in the Greater Horn of Africa,
+Global Food Security,
+Volume 26,
+2020,
+100374,
+ISSN 2211-9124,
+https://doi.org/10.1016/j.gfs.2020.100374.
+(https://www.sciencedirect.com/science/article/pii/S2211912420300274)
+Abstract: Early warning systems are essential tool for humanitarian preparedness and response. The diversity of inputs required, ranging from agricultural production estimates to market price variability and weather forecasts, means that interpreting food security signals is not an easy task. Each of these inputs is fraught with uncertainty which analysts need to assess when making projections about future food security. Understanding the accuracy rates of early warning systems is therefore of paramount importance to enable improvements to food security prediction. However, to date, limited analyses of early warning accuracy have been conducted. Here we analyze Famine Early Warning System Network (FEWS NET) early warning data for the Greater Horn of Africa and show that, despite accuracy in projections, there remain important challenges for food security projections. The two major sources of uncertainty are associated with complex weather phenomena and conflict – with uncertainty in weather forecasts being twice as important as conflict in overall FEWS NET accuracy. Indeed, the least accurate projections are recorded in seasons with particularly complex weather events such as the 2015/2016 El Niño Southern Oscillation as well as in zones that are affected by internal conflict (e.g. South Sudan). With respect to predicting crisis transitions, areas with more frequent transitions tend to be more accurate, possibly because predicting the drivers behind these transitions are better understood. Our novel analysis provides a framework to invest resources in specific aspects of early warning. We also hope that by measuring the reliability of these systems, we can increase the confidence of decision makers to act early to mitigate the growing risks posed by hunger and famine.
+Keywords: Food security; Early warning systems; Greater horn of Africa; Accuracy

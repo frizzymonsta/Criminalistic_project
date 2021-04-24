@@ -1,0 +1,11 @@
+Kevin C. Desouza, Atif Ahmad, Humza Naseer, Munish Sharma,
+Weaponizing information systems for political disruption: The Actor, Lever, Effects, and Response Taxonomy (ALERT),
+Computers & Security,
+Volume 88,
+2020,
+101606,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2019.101606.
+(https://www.sciencedirect.com/science/article/pii/S0167404819301579)
+Abstract: Information systems continue to be used by actors who want to undermine public institutions and disrupt political systems. In recent times, actors have engaged in acts of information warfare ranging from attempts to compromising voting systems, to spreading false propaganda and even direct attacks on public infrastructure via information systems. Initial analysis points to the fact that most of these attempts have been successful in achieving their intended objectives. Given this reality, we expect them to intensify and be more creative in the future. In this paper we draw on a critical analysis of the role of information systems in creating political disruption to propose that information systems can be ‘weaponized’ by compromising their goals and values even while they remain protected. Building on this proposition we develop a risk-based Actor, Lever, Effects and Response Taxonomy (ALERT) to assist security practitioners and policymakers to analyze and respond to attacks enabled by information systems aimed at political disruption. We illustrate the utility of ALERT using representative examples of weaponized attacks from credible news sources. Finally, we leverage the insights gained from ALERT to propose a theoretical framework where we assert that over time as actors gain maturity and experience using levers to disrupt political systems, so too does the public sector gain experience in response thus building their response capacity. This dynamic relationship increasingly pushes both actors and defenders to come up with more innovative, agile and sophisticated methods to weaponize and respond to information systems enabled attacks.
+Keywords: Information systems; Information warfare; Cyber; Cybersecurity; Cyber conflict; Critical infrastructure; Threat modeling; Taxonomy

@@ -1,0 +1,10 @@
+Smita Srivastava, Arvin Sahaym, Thomas H. Allison,
+Alert and Awake: Role of alertness and attention on rate of new product introductions,
+Journal of Business Venturing,
+2020,
+106023,
+ISSN 0883-9026,
+https://doi.org/10.1016/j.jbusvent.2020.106023.
+(https://www.sciencedirect.com/science/article/pii/S0883902618303112)
+Abstract: Integrating the attention-based view and entrepreneurial alertness perspective, we develop our theoretical framework to test the influence of CEO attention and alertness on rate of new product introduction (NPI). We propose that a firm's rate of NPI is predicted independently and jointly by attention and alertness, two different yet complementary cognitive characteristics of the CEO. Using a sample of 271 US-based small and medium size enterprises (SMEs) from 2004 to 2015, we show that CEO's attention to R&D, customers, and competitors positively influence NPI, while attention to organization negatively impacts the relationship. We also find that CEO alertness has positive impact on the rate of NPI; however, high alertness hurts the rate of NPI. Such theoretical elaboration and empirical illustrations contribute to a better understanding of the microfoundations of managerial cognition and its role in NPI. By adding alertness from entrepreneurship literature and explicating the nexus between alertness and attention, our study explains how some CEOs who are able to acquire novel information and stay focused are able to achieve higher rate of NPI.
+Keywords: CEO attention; CEO Alertness; Managerial cognition; New product introduction

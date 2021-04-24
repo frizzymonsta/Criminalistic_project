@@ -1,0 +1,27 @@
+Dieric Diaz, Álvaro Vallejos, Sandra Torres,  William Hernández, Juan Calvache, Johan Merchán, Germán Latorre, Laura Maldonado,
+Detection of potential risks in the prescription of tricyclic antidepressants through an online clinical alert system,
+Revista Colombiana de Psiquiatría,
+Volume 49, Issue 1,
+2020,
+Pages 9-14,
+ISSN 0034-7450,
+https://doi.org/10.1016/j.rcp.2018.05.001.
+(https://www.sciencedirect.com/science/article/pii/S0034745018300659)
+Abstract: Objective
+To analyse the use, indications and potential risks of tricyclic antidepressants (TCAs), using a technological system of clinical alerts at the time of prescription.
+Methods
+Observational, descriptive, retrospective study on a population covered by a Colombian health insurance plan with an average of 2,333,582 members/month. The information was generated in the PBM (Pharmacy Benefit Management) MC21 Colombia technological platform.
+Results
+Of the total members, 368,298 (16%) patients/month on average were prescribed medicines; 3,640 (1%) were prescribed TCAs: 2,573 amitriptyline (70%) and 1.062 imipramine (29%); 817 (22.5%) were over 65 years of age. The median daily dose of amitriptyline and imipramine was 25 mg. A total of 17,153 alerts were reported: 8,685 (51%) for drug-drug interactions, 7,354 (43%) for drug-age interactions and 543 (3%) for duplicate therapy.
+Conclusions
+Risks were identified in the prescription of tricyclic antidepressants, especially in the over-65 population, where these drugs are used in particular for the management of neuropathic pain. The clinical alert system at the time of medicinal product formulation can make an important contribution to the prevention of potential adverse events associated with the use of medicinal products.
+Resumen
+Objetivos
+Analizar el uso, las indicaciones y los riesgos potenciales de los antidepresivos tricíclicos empleando un sistema tecnológico de alertas clínicas en el momento de la prescripción.
+Métodos
+Estudio observacional descriptivo y retrospectivo en una población de una aseguradora colombiana con un promedio de 2.333.582 afiliados/mes. La información se generó en la plataforma tecnológica del PBM (Pharmacy Benefit Management) MC21 Colombia.
+Resultados
+Del total de afiliados, se prescribieron medicamentos a una media de 368.298 (16%) por mes; a 3.640 (1%), antidepresivos tricíclicos: amitriptilina a 2.573 (70%) e imipramina a 1.062 (29%); 817 (22,5%) eran mayores de 65 años. La mediana de dosis diarias de amitriptilina e imipramina fue 25 mg. En total se reportaron 17.153 alertas de antidepresivos tricíclicos: 8.685 (51%) de interacción farmacológica; 7.354 (43%) de interacción fármaco-edad (pacientes mayores de 65 años) y 543 (3%) de terapia duplicada.
+Conclusiones
+Se identificaron riesgos en la prescripción de antidepresivos tricíclicos especialmente en la población mayor de 65 años, que usan estos medicamentos principalmente para tratar el dolor neuropático. El sistema de alertas clínicas en el momento de la formulación de medicamentos hace un aporte importante en la prevención de potenciales eventos adversos asociados con el uso de medicamentos.
+Keywords: Tricyclic antidepressants; Pharmacovigilance; Drug interactions; Pain management; Elderly; Antidepresivos tricíclicos; Farmacovigilancia; Interacciones de medicamentos; Tratamiento del dolor; Anciano

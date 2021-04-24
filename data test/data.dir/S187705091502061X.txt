@@ -1,0 +1,11 @@
+Benfano Soewito,  Irwan, Anna Antonyová, Fergyanto E. Gunawan,
+Fall Detection Algorithm to Generate Security Alert,
+Procedia Computer Science,
+Volume 59,
+2015,
+Pages 350-356,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2015.07.532.
+(https://www.sciencedirect.com/science/article/pii/S187705091502061X)
+Abstract: Sometime we experience events that we do not want, such as getting traffic accidents, work accidents, falls while doing the activity and so on. At the moment we have an accident that we may be difficult, even we cannot contact police or rescue ambulance. In addition we do not know their phone number or perhaps circumstances we were so severe that we cannot dial the rescue or police phone number. In this paper, we introduce a system that can generate alerts or contact rescuers and police automatically when we are faced with a situation that is undesirable. The system will utilize the accelerometer sensor in the mobile devices (smart phone). We proposed fall detection algorithm which use accelerometer to generate a signal. Our result shows that the false positive is about 30% if someone fall down with the smart phone in the pocket, and about 1.5% if we drop the smart phone.
+Keywords: accelerometer; android; smart phone; security allert system

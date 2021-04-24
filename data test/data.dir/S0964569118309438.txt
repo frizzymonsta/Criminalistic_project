@@ -1,0 +1,11 @@
+A.D. Read, C. McBride, T. Spencer, P. Anderson, J. Smith, T. Costa, S. Clementz, A. Dowd,
+Preventing noncompliance in marine protected areas using a real-time alert system,
+Ocean & Coastal Management,
+Volume 173,
+2019,
+Pages 123-130,
+ISSN 0964-5691,
+https://doi.org/10.1016/j.ocecoaman.2019.03.001.
+(https://www.sciencedirect.com/science/article/pii/S0964569118309438)
+Abstract: Effective compliance is a key element to the successful management of marine protected areas (MPAs), and requires a suite of tools to generate awareness of MPA rules, and monitor and regulate their use. Using vessel monitoring systems and creating geo-fences around MPA boundaries is an innovative approach to improve such awareness to vessel masters and commercial fishing licence holders with these systems on-board. In 2014, Parks Australia in partnership with the Australian Fisheries Management Authority (AFMA) introduced a purpose-built alert service for commercial fishing licence holders operating in Australian Commonwealth fisheries managed by AFMA that overlap with MPAs (Australian marine parks). The alert service is customised for each individual fishing vessel to notify masters and licence holders when they enter Australian marine parks where their particular fishing method is prohibited. Since the introduction of the alert service in 25 marine parks, fishers have received 3307 alerts, across eight fisheries. It is estimated that 23 of these alerts averted compliance incidents, in turn protecting marine park values and saving AUD$4.7 million in litigation costs. Of significance, there has been no recorded incidence of noncompliance by Australian commercial fishing licence holders and their vessel master's with access to the alert service since its introduction. The information presented here is the first empirical analysis of the effectiveness of geo-fencing to minimise noncompliance in MPAs. The alert service has the potential to become a front-line tool for supporting compliance by commercial fishing licence holders and their master's in Australian marine parks and other large-scale MPAs and MPA networks, globally.
+Keywords: Marine parks; Marine reserves; Compliance; Vessel monitoring system; Geo-fence

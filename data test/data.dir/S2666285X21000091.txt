@@ -1,0 +1,10 @@
+Purna Chandra Sethi, Prafulla Kumar Behera,
+Anomaly Detection and Optimization using Scalable and Flexible Network Data Characterization,
+Global Transitions Proceedings,
+2021,
+,
+ISSN 2666-285X,
+https://doi.org/10.1016/j.gltp.2021.01.009.
+(https://www.sciencedirect.com/science/article/pii/S2666285X21000091)
+Abstract: In the context of information security, cyber-attacks such as malware attacks, viruses, etc. caused substantial damage to many organizations. The most common solution to cyber-attack is cryptography algorithm implementation and Intrusion Detection System (IDS). Different cryptography algorithms with varying key length are used to achieve different level of information security. IDS is used to control and alert the cyber-attacks which are much redundant and generates many false alerts in real-life application. The filtering and classification of false alerts involve substantial investment and security analysis. We propose a self-Learning data management approach in terms of data characterization using SeLINA for minimizing false alerts. Two different queues namely: Normal Queue and Suspicious Queues are used for storing information without and with any false alert respectively. The Suspicious Queue then undergoes filtering using feature detection technique. Subsequently, the filtered information with no false alert signals is transferred to the Normal Queue using a supervised hierarchical structure towards minimization of false alerts. Consequently, this technique is helpful to identify malicious attacks easily with no extra time for false alert detection.
+Keywords: Data Characterization; False Intrusion Alert; Filtering and Data Management; Self Learning Insightful Network Analyzer (SeLINA); Supervised Analytical Hierarchy Process

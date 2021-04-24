@@ -1,0 +1,11 @@
+Martin Husák, Martin Žádník, Václav Bartoš, Pavol Sokol,
+Dataset of intrusion detection alerts from a sharing platform,
+Data in Brief,
+Volume 33,
+2020,
+106530,
+ISSN 2352-3409,
+https://doi.org/10.1016/j.dib.2020.106530.
+(https://www.sciencedirect.com/science/article/pii/S2352340920314128)
+Abstract: The dataset contains intrusion detection alerts obtained via an alert sharing platform (SABU) for one week. A plethora of heterogeneous intrusion detection systems deployed across several organizations contributed to the sharing platform. The alerts are stored in the intrusion Detection Extensible Alert (IDEA) format and categorized using the eCSIRT.net Incident Taxonomy. Dataset can be used in several areas of cybersecurity research for the analysis of intrusion detection alerts including temporal and spatial correlations, reputation scoring, attack scenario reconstruction, and attack projection. The network identifiers (e.g., IP addresses, hostnames) are anonymized. However, the list of interesting features (e.g., presence on blacklists, geolocation) of such entities at the time of data collection is provided.
+Keywords: Cyber security; Intrusion detection alerts; Information exchange; Geolocation; Reputation

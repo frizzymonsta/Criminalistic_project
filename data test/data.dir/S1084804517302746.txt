@@ -1,0 +1,11 @@
+Jorge Maestre Vidal, Ana Lucila Sandoval Orozco, Luis Javier García Villalba,
+Alert correlation framework for malware detection by anomaly-based packet payload analysis,
+Journal of Network and Computer Applications,
+Volume 97,
+2017,
+Pages 11-22,
+ISSN 1084-8045,
+https://doi.org/10.1016/j.jnca.2017.08.010.
+(https://www.sciencedirect.com/science/article/pii/S1084804517302746)
+Abstract: Intrusion detection based on identifying anomalies typically emits a large amount of reports about the malicious activities monitored; hence information gathered is difficult to manage. In this paper, an alert correlation system capable of dealing with this problem is introduced. The work carried out has focused on the study of a particular family of sensors, namely those which analyze the payload of network traffic looking for malware. Unlike conventional approaches, the information provided by the network packet headers is not taken into account. Instead, the proposed strategy considers the payload of the monitored traffic and the characteristics of the models built during the training of such detectors, in this way supporting the general-purpose incident management tools. It aims to analyze, classify and prioritize alerts issued, based on two criteria: the risk of threats being genuine and their nature. Incidences are studied both in a one-to-one and in a group context. This implies the consideration of two different processing layers: The first one allows fast reactions and resilience against certain adversarial attacks, and on the other hand, the deeper layer facilitates the reconstruction of attack scenarios and provides an overview of potential threats. Experiments conducted by analyzing real traffic demonstrated the effectiveness of the proposal.
+Keywords: Alert correlation; Anomalies; Intrusion detection system; Malware; Network; Payload

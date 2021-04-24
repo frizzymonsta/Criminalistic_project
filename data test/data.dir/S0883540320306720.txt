@@ -1,0 +1,18 @@
+Daniel J. Kaplan, Jonathan D. Haskel, Ezra E. Dweck, Michael Collins, Morteza Mefta, William J. Long, Ran Schwarzkopf,
+The Association between Reasons for a Rapid Response Team Alert and Immediate Patient Management in Total Hip Arthroplasty Patients,
+The Journal of Arthroplasty,
+Volume 35, Issue 11,
+2020,
+Pages 3214-3222,
+ISSN 0883-5403,
+https://doi.org/10.1016/j.arth.2020.06.028.
+(https://www.sciencedirect.com/science/article/pii/S0883540320306720)
+Abstract: Background
+The purpose of this study is to evaluate the value and efficacy of rapid response teams (RRTs) for different triggering events in total hip arthroplasty (THA) patients.
+Methods
+A retrospective review of all RRT events at a single, tertiary referral center from 2014 to 2016 was performed. Inclusion criteria were defined as patients >18 years old that underwent primary or revision THA. Information queried included demographics, primary reason for RRT, Charlson Comorbidity Index (CCI), underlying etiology, whether any changes in management occurred, and whether the patient was uptriaged.
+Results
+In total, 168 RRTs were called on 153 hip arthroplasty patients (mean age 65.2 ± 14.1 years; mean body mass index 32.3 ± 4.8, 66% female). Length of stay in RRT for primary and revision THA was 3.4 and 6.2 days, respectively. This was significantly longer than the length of stay for primary THA patients (2.4 days, P < .001) and revision THA patients (4.6 days, P = .005) that did not require an RRT. There were no mortalities. RRTs for hypotension/presyncope (11%) and for syncope (11%) resulted in significantly fewer changes in management (P < .01) than tachycardia (77%), hypoxia (57%), AMS (79%), and other (47%). RRTs for hypotension/presyncope (28%), syncope (15%), and hypoxia (30%) resulted in significantly fewer patients being uptriaged (P < .001) than tachycardia (81%). Hypotension/presyncope was found to be significantly more commonly due to volume depletion (67%) (P < .001) than other etiologies. Hypoxia was significantly more commonly due to atelectasis (57%) and opioids/oversedation (30.4%) (P = .037). AMS/delirium was also significantly more commonly caused by opioids/over-sedation (71%) (P < .001).
+Conclusion
+In patients undergoing THA, RRTs for hypotension/presyncopal symptoms and syncope were significantly less likely to result in changes in management or uptriaging compared to tachycardia. The most common etiologies were potentially preventable, including volume depletion and opioid use.
+Keywords: total hip arthroplasty; rapid response team; value-based care; bundled payments; perioperative optimization

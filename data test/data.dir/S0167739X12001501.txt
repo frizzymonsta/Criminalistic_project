@@ -1,0 +1,11 @@
+Raheel Hassan Syed, Maxime Syrame, Julien Bourgeois,
+Protecting grids from cross-domain attacks using security alert sharing mechanisms,
+Future Generation Computer Systems,
+Volume 29, Issue 2,
+2013,
+Pages 536-547,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2012.07.002.
+(https://www.sciencedirect.com/science/article/pii/S0167739X12001501)
+Abstract: In single administrative domain networks there is only one security policy which can be evaluated by the IT security manager, thanks to monitoring and reporting tools. Grid networks are often composed of different administrative domains owned by different organizations dispersed globally. Such networks are referred to as multi-administrative domain networks. Each domain might have its own security policy and may not want to share its security data with less-protected networks, making it more complex to ensure the security of such networks and protecting them from cross-domain attacks. We propose a Security Event Manager (SEM) called the Grid Security Operation Center (GSOC), which facilitates IT security managers in giving a view of the security of the whole grid network without compromising confidentiality of security data. To do so, GSOC provides a security evaluation of each administrative domain (AD) and a parametric security alert sharing scheme. Alert sharing can then be tuned in order to meet local security policy rules.
+Keywords: Security management of grid computing networks; Security alert sharing; Security level assessment; Blocking cross domain attacks; Security evaluation in grid computing networks

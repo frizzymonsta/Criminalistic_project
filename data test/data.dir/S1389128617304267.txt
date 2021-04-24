@@ -1,0 +1,11 @@
+Fátima Castro-Jul, Rebeca P. Díaz-Redondo, Ana Fernández-Vilas,
+Collaboratively assessing urban alerts in ad hoc participatory sensing,
+Computer Networks,
+Volume 131,
+2018,
+Pages 129-143,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2017.12.008.
+(https://www.sciencedirect.com/science/article/pii/S1389128617304267)
+Abstract: Ad hoc architectures have emerged as a valuable alternative to centralized participatory sensing systems due to their infrastructure-less nature, which ensures good availability, easy maintenance and direct user communication. As a result, they need to incorporate content-aware assessment mechanisms to deal with a common problem in participatory sensing: information assessment. Easy contribution encourages users’ participation and improves the sensing task but may result in large amounts of data, which may not be valid or relevant. Currently, prioritization is the only totally ad hoc scheme to assess user-generated alerts. This strategy prevents duplicates from congesting the network. However, it does not include the assessment of every generated alert and does not deal with low-quality or irrelevant alerts. In order to ensure users receive only interesting alerts and the network is not compromised, we propose two collaborative alert assessment mechanisms that, while keeping the network flat, provide an effective message filter. Both of them rely on opportunistic collaboration with nearby peers. By simulating their behavior in a real urban area, we have proved them able to decrease network load while maintaining alert delivery ratio.
+Keywords: Event detection; Participatory sensing; Opportunistic sensing; Smart city

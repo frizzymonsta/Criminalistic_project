@@ -1,0 +1,18 @@
+Ailish Valeriano, Shyan Van Heer, François de Champlain, Steven C. Brooks,
+Crowdsourcing to save lives: A scoping review of bystander alert technologies for out-of-hospital cardiac arrest,
+Resuscitation,
+Volume 158,
+2021,
+Pages 94-121,
+ISSN 0300-9572,
+https://doi.org/10.1016/j.resuscitation.2020.10.035.
+(https://www.sciencedirect.com/science/article/pii/S030095722030544X)
+Abstract: Aim
+Out-of-hospital cardiac arrest (OHCA) constitutes a significant global health burden, with a survival rate of only 10–12%. Mobile phone technologies have been developed that crowdsource citizen volunteers to nearby OHCAs in order to initiate resuscitation prior to ambulance arrival. We performed a scoping review to map the available literature on these crowdsourcing technologies and compared their technical specifications.
+Methods
+A search strategy was developed for five online databases. Two reviewers independently assessed all articles for inclusion and extracted relevant study information. Subsequently, we performed a supplementary internet search and consulted experts to identify all available bystander alert technologies and their specifications.
+Results
+We included 65 articles examining bystander alerting technologies from more than 15 countries. We also identified 25 unique technologies, of which 18 were described in the included literature. Technologies were text message-based systems (n = 3) or mobile phone applications (n = 22). Most (21/25) used global positioning systems to direct bystanders to victims and nearby AEDs. Response radii for alerts varied widely from 200 m to 10 km. Some technologies incorporated advanced features such as video-conferencing with ambulance dispatch and detailed alert settings. Not all systems required volunteers to have training in cardiopulmonary resuscitation. Only ten studies assessed impact on clinical outcomes. Key barriers discussed included false positive alerts, legal liability, and potential psychological impact on volunteers.
+Conclusion
+Our review provides a comprehensive overview of crowdsourcing technologies for bystander intervention in out-of-hospital cardiac arrest. Future work should focus on clinical outcomes and methods of addressing barriers to implementation.
+Keywords: Out-of-hospital cardiac arrest; Cardiopulmonary resuscitation; Bystander intervention; Smartphone applications; Crowdsourcing

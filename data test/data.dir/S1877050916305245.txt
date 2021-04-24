@@ -1,0 +1,11 @@
+Munib ur Rahman, Soliha Rahman, Seema Mansoor, Vikas Deep, M. Aashkaar,
+Implementation of ICT and Wireless Sensor Networks for Earthquake Alert and Disaster Management in Earthquake Prone Areas,
+Procedia Computer Science,
+Volume 85,
+2016,
+Pages 92-99,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2016.05.184.
+(https://www.sciencedirect.com/science/article/pii/S1877050916305245)
+Abstract: Earthquakes are sudden disturbances in the earth's crust that cause huge loss to life and property. The movement of tectonic plates and their overlapping is often unpredictable and can occur at any geographical location. In most earthquake events, it takes few seconds for the earthquake to reach several miles, across countries, continents and cause major destruction. Even after an earthquake has occurred, the aftershocks and tsunami threats haunt people living in the effected region. In this research, we mainly focus on the importance of ICT for disaster management and how ICT can be helpful in disseminating earthquake alerts. Also with application of Wireless Sensor Networks, how we can design Early Warning Systems or Earthquake Prediction Systems. We would be emphasizing on Earthquake prediction methods and disaster management strategies using ICT and Wireless Sensor Networks. Implementation of Wireless Sensor Networks in earthquake prone areas and application of ICT can prove to be very helpful in avoiding devastating situations during quakes and safeguard people from heavy losses.
+Keywords: Earthquake; Wireless Sensor Networks; Information Communication Technology; Disaster Management ;Earthquake precursors.

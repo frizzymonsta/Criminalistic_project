@@ -1,0 +1,11 @@
+Wan Li, Shengfeng Tian,
+An ontology-based intrusion alerts correlation system,
+Expert Systems with Applications,
+Volume 37, Issue 10,
+2010,
+Pages 7138-7146,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2010.03.068.
+(https://www.sciencedirect.com/science/article/pii/S095741741000271X)
+Abstract: Alert correlation techniques effectively improve the quality of alerts reported by intrusion detection systems, and are sufficient to support rapid identification of ongoing attacks or predict an intruder’s next likely goal. In our previous work, an alert correlation approach based on our XSWRL ontology has been proposed. This paper focuses on how to develop the intrusion alerts correlation system according to our alert correlation approach. At first, the multi-agent system architecture consisting of agents and sensors is shown. The sensors collect security relevant information, and the agents process the information. Then we present each modules of the system in detail. The State Sensor collects information about security state and the Local State Agent and Center State Agent preprocess the security state information and convert it to ontology. The Attack Sensor collects information about attack and the Local Alert Agent and Center Alert Agent preprocess the alert information and convert it to ontology. The Attack Correlator correlates the attacks and outputs the attack sessions.
+Keywords: Alert correlation; Intrusion detection; Ontology; System integration and implementation

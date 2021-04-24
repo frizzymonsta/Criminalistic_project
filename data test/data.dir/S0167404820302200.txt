@@ -1,0 +1,11 @@
+Joachim Meyer, Omer Dembinsky, Tal Raviv,
+Alerting about possible risks vs. blocking risky choices: A quantitative model and its empirical evaluation,
+Computers & Security,
+Volume 97,
+2020,
+101944,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2020.101944.
+(https://www.sciencedirect.com/science/article/pii/S0167404820302200)
+Abstract: Alerting users about possible threats or blocking users’ ability to perform potentially dangerous actions are two common ways to protect systems from the adverse effects of threats, such as malicious email attachments, fraudulent requests, or system malfunctions. We present a normative model of the effects of alerting and blocking on the value of the outcomes, on measures of risk-taking, and on the number of successful attacks. We compared warning and blocking systems and binary- and likelihood-alarm systems as a function of properties of the threats and the security system. We also compared model predictions to actual user behavior, as measured in a controlled experiment. The experimental results were generally in line with the normative model. However, the model predicted that the outcomes from blocking would always be worse or equal to those from warnings. The experiment, however, showed that blocking may have an advantage over warnings, because it leads to fewer undetected events (as predicted by the model), without significantly lowering the mean value of outcomes (the model predicts a lower value). We discuss practical implications regarding the use of blocking and alerting and the more general value of combining optimal decision models and empirical experiments for determining system designs.
+Keywords: Cyber security; Alerts; Alarms; Warnings; Blocking; Signal detection theory; Decision making; Optimal behavior modeling; Behavioral validation

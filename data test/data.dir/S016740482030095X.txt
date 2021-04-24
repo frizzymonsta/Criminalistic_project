@@ -1,0 +1,11 @@
+Blake D. Bryant, Hossein Saiedian,
+Improving SIEM alert metadata aggregation with a novel kill-chain based classification model,
+Computers & Security,
+Volume 94,
+2020,
+101817,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2020.101817.
+(https://www.sciencedirect.com/science/article/pii/S016740482030095X)
+Abstract: Today’s information networks face increasingly sophisticated and persistent threats, where new threat tools and vulnerability exploits often outpace advancements in intrusion detection systems. Current detection systems often create too many alerts, which contain insufficient data for analysts. As a result, the vast majority of alerts are ignored, contributing to security breaches that might otherwise have been prevented. Security Information and Event Management (SIEM) software is a recent development designed to improve alert volume and content by correlating data from multiple sensors. However, insufficient SIEM configuration has thus far limited the promise of SIEM software for improving intrusion detection. The focus of our research is the implementation of a hybrid kill-chain framework as a novel configuration of SIEM software. Our research resulted in a new log ontology capable of normalizing security sensor data in accordance with modern threat research. New SIEM correlation rules were developed using the new log ontology, and the effectiveness of the new configuration was tested against a baseline configuration. The novel configuration was shown to improve detection rates, give more descriptive alerts, and lower the number of false positive alerts.
+Keywords: Network monitoring; Intrusion detection; Kill-chain; Advanced persistent threat; APT; Security information and event management; SIEM; Security log ontology; Computer network defense; Attack ontology; Threat framework

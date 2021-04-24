@@ -1,0 +1,11 @@
+Hichem Ben Abdallah, Takoua Abdellatif, Faouzi Chekir,
+AMSEP: Automated Multi-level Security Management for Multimedia Event Processing,
+Procedia Computer Science,
+Volume 134,
+2018,
+Pages 452-457,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2018.07.184.
+(https://www.sciencedirect.com/science/article/pii/S1877050918311499)
+Abstract: Efficient event processing is fundamental for IoT systems handling critical data such as security surveillance and e-health. There is a need for data real time processing and accurate classification of events following their security level. These tasks are challenging in IoT context systems which handle a big volume of multimedia data. They require a large processing time and event consumers have different points of interest and multi-level access rights. In this paper, we propose AMSEP for multi-level security management of multimedia events. AMSEP automatically analyses incoming multimedia events, calculates their security levels following multi-level security policies in order to send them securely to their destinations. The proposed system is based on Deep Learning processing and on a publish/subscribe broker extension (Kafka). We show that mixing the two building blocks allows to fulfill three main challenges in IoT: (1) Accurate and real time event processing, (2) Dynamic adaptation to modify security policies and (3) event scalability and reliable routing of events from sources to destinations.
+Keywords: Deep Learning; IoT; event processing; Kafka; surveillance systems; Big data confidentiality

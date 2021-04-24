@@ -1,0 +1,11 @@
+Indranil Bose, Alvin Chung Man Leung,
+Do phishing alerts impact global corporations? A firm value analysis,
+Decision Support Systems,
+Volume 64,
+2014,
+Pages 67-78,
+ISSN 0167-9236,
+https://doi.org/10.1016/j.dss.2014.04.006.
+(https://www.sciencedirect.com/science/article/pii/S0167923614001274)
+Abstract: Phishing is a form of online identity theft that is increasingly becoming a global menace. In this research, we analyze the impact of phishing alerts released in public databases on the market value of global firms. Using a sample of 1942 phishing alerts related to 259 firms in 32 countries, we show that the release of each phishing alert leads to a statistically significant loss of market capitalization that is at least US$ 411million for a firm. We propose a theoretical framework for analyzing the impact of threats on firm value, and determine that the negative investor reaction is strongly significant for alerts released in 2006–2007 and for those targeted to financial holding companies, and weakly significant for firms listed in the US. We derive and validate these results using a combination of event study, subsampling analysis, and cross-sectional regression analysis. Our research makes a contribution by providing a new model for conducting multi-country event studies. We also contribute to the information systems literature by quantifying the loss in market value caused by phishing, and provide compelling evidence to information security administrators of firms that urge them to adopt adequate countermeasures to prevent phishing attacks.
+Keywords: Abnormal returns; Event study; Financial holding companies; Firm value; Phishing; Trading volume

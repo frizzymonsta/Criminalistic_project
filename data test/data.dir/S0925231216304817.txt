@@ -1,0 +1,11 @@
+Yiyang Yao, Zhiqiang Wang, Chun Gan, Qian Kang, Xuejiao Liu, Yingjie Xia, Luming Zhang,
+Multi-source alert data understanding for security semantic discovery based on rough set theory,
+Neurocomputing,
+Volume 208,
+2016,
+Pages 39-45,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2015.12.127.
+(https://www.sciencedirect.com/science/article/pii/S0925231216304817)
+Abstract: To secure the network system, a large number of different information security devices, e.g., intrusion detection system, firewall, etc., have been deployed in the network. These devices can protect the network system from all aspects, but also bring new problems for information security administration. Massive alert data from different devices are increasingly generated and some real alerts are buried with the overwhelming alerts, which are mixed with a large amount of repetitive and false alerts. In this paper, we propose a multi-source alert data understanding scheme based on rough set theory for security semantic discovery. Firstly, we classify the alert data according to the data features to merge the multi-source alerts. Then, we calculate the weight for each classification of alerts by applying the rough set theory to historical data. Then we perform data aggregation by alert similarity computation to reduce repetitive alerts from different sources. Also, we introduce reliability metrics to measure the credibility of different alerts for further correlation and semantic analysis according to the network background information. We perform experiments on the collected data set in the real network system and DARPR 2000 data set. Experimental results show that our proposed method could reduce more than 80% repetitive alerts in the data sets.
+Keywords: Multi-source; Understanding; Security semantic; Rough set theory; Feature weight

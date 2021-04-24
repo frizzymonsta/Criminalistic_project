@@ -1,0 +1,11 @@
+Andreas Ekelhart, Elmar Kiesling, Kabul Kurniawan,
+Taming the logs - Vocabularies for semantic security analysis,
+Procedia Computer Science,
+Volume 137,
+2018,
+Pages 109-119,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2018.09.011.
+(https://www.sciencedirect.com/science/article/pii/S1877050918316156)
+Abstract: Due to the growing complexity of information systems and the increasing prevalence and sophistication of threats, security management has become an enormously challenging task. To identify suspicious activities, security analysts need to monitor their systems constantly, which involves coping with high volumes of heterogeneous log data from various sources. Processes to aggregate these disparate logs and trigger alerts when particular events occur are often automated today. However, these methods are typically based on regular expressions and statistical correlations and do not involve any interpretation of the context in which an event occurred and do not allow for inference or sophisticated rules. Inspection and in-depth analysis of log information to link events from various sources (e.g., firewall, syslog, web server log, database log) and establish causal chains has therefore largely remained a tedious manual search process that scales poorly with a growing number of heterogeneous log sources, log volumes, and the increasing complexity of attacks. In this paper, we make the case for a semantic approach to tackle these challenges. By lifting raw log data and modeling their context, events can be linked to rich background knowledge, integrated based on causal relations, and interpreted in a context-specific manner. This builds a foundation for more comprehensive extraction of the meaning of events from unstructured log messages. Based on the results, we envision a platform to partly automate security monitoring and support analysts in coping with fast evolving threat landscapes, alleviate alert fatigue, improve situational awareness, and expedite incidence response.
+Keywords: semantic extraction; log vocabularies; log analysis; security analysis

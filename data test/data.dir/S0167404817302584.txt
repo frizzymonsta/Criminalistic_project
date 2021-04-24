@@ -1,0 +1,11 @@
+Sean Carlisto de Alvarenga, Sylvio Barbon, Rodrigo Sanches Miani, Michel Cukier, Bruno Bogaz Zarpelão,
+Process mining and hierarchical clustering to help intrusion alert visualization,
+Computers & Security,
+Volume 73,
+2018,
+Pages 474-491,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2017.11.021.
+(https://www.sciencedirect.com/science/article/pii/S0167404817302584)
+Abstract: Intrusion Detection Systems (IDS) are extensively used as one of the lines of defense of a network to prevent and mitigate the risks caused by security breaches. IDS provide information about the intrusive activities on a network through alerts, which security analysts manually evaluate to execute an intrusion response plan. However, one of the downsides of IDS is the large amount of alerts they raise, which makes the manual investigation of alerts a burdensome and error-prone task. In this work, we propose an approach to facilitate the investigation of huge amounts of intrusion alerts. The approach applies process mining techniques on alerts to extract information regarding the attackers behavior and the multi-stage attack strategies they adopted. The strategies are presented to the network administrator in friendly high-level visual models. Large and visually complex models that are difficult to understand are clustered into smaller, simpler and intuitive models using hierarchical clustering techniques. To evaluate the proposed approach, a real dataset of alerts from a large public University in the United States was used. We find that security visualization models created with process mining and hierarchical clustering are able to condense a huge number of alerts and provide insightful information for network/IDS administrators. For instance, by analyzing the models generated during the case study, network administrators could find out important details about the attack strategies such as attack frequencies and targeted network services.
+Keywords: Intrusion detection; Security visualization; Security analytics; Alert mining; Alert correlation

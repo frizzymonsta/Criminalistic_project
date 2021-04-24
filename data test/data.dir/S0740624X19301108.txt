@@ -1,0 +1,11 @@
+Amy Woszczynski, Andrew Green, Kelly Dodson, Peter Easton,
+Zombies, Sirens, and Lady Gaga – Oh My! Developing a Framework for Coordinated Vulnerability Disclosure for U.S. Emergency Alert Systems,
+Government Information Quarterly,
+Volume 37, Issue 1,
+2020,
+101418,
+ISSN 0740-624X,
+https://doi.org/10.1016/j.giq.2019.101418.
+(https://www.sciencedirect.com/science/article/pii/S0740624X19301108)
+Abstract: U.S. emergency alert systems (EAS) run on legacy software with aging hardware and limited cybersecurity. While EASs are an essential component of the U.S. critical infrastructure, they are often under-funded, and workers frequently lack the knowledge to protect these systems adequately. Recent compromises of various EASs have not inspired public confidence. We present a method for EAS authorities to engage with external cybersecurity researchers to find, recover from, and disclose vulnerabilities using coordinated vulnerability disclosure (CVD) policies. Clearly written CVD policies set guidelines and legal bounds for cybersecurity research, taking advantage of researcher expertise while working to strengthen the cybersecurity of the patchwork public-private-government networks comprising EASs. We intended to investigate the CVD policies of EASs in seven southeastern states; however, we could find no CVD policies through the entire supply chain. Instead, we investigated the CVD policies of the top 10 technology firms on the Fortune 500 list, analyzing best practices in terms of publication of a CVD policy, as well as: setting eligibility requirements, describing the submission process, delineating researcher restrictions, outlining agreements on sharing credit, and explaining bounties (if relevant). We recommend that EAS authorities develop CVD policies in line with suggested criteria, using policies from top technology organizations combined with the proposed framework, and using cybersecurity researchers as a valuable component of the EAS supply chain.
+Keywords: Government; This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.

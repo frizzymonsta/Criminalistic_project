@@ -1,0 +1,11 @@
+Qi Wu,
+Applications and theoretical challenges in environmental emergency issues alerting system on IoT intelligence,
+Computer Communications,
+Volume 157,
+2020,
+Pages 361-368,
+ISSN 0140-3664,
+https://doi.org/10.1016/j.comcom.2020.03.030.
+(https://www.sciencedirect.com/science/article/pii/S0140366420301717)
+Abstract: In the current scenario, the Internet of Things (IoT) based intelligent environments is considered as an active research area of research for the environmental emergency management system. Further, the highly important task of IoT assisted system has been developed to manage emergencies and support various systems during awareness situations in today’s world. The integration of these techniques will ensure that our lives are safer in response to disasters, emergencies or weapon attacks. In this paper, an IoT based emergency response system (IoT-ERS) solution has been proposed to safeguard people from emergencies based on real-time data. The proposed solution informs individuals and discusses an application that utilizes Smartphone information from the crowds and offers a suggestion for secured data retrieval during emergencies. Two possible instances are taken into consideration as listed as follows, (i) an emergency management and (ii) an essential application for data routing. Based on the outcomes, the experimental results show promising outcomes when compared to previous methods which have been firmly discussed in this research.
+Keywords: Internet of Things (IoT); Emergency response system; Decision making; Weapon attacks

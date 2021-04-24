@@ -1,0 +1,11 @@
+Georgios P. Spathoulas, Sokratis K. Katsikas,
+Enhancing IDS performance through comprehensive alert post-processing,
+Computers & Security,
+Volume 37,
+2013,
+Pages 176-196,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2013.03.005.
+(https://www.sciencedirect.com/science/article/pii/S0167404813000503)
+Abstract: Intrusion detection systems (IDS) are among the most common countermeasures against network attacks. In order to improve the alerts obtained from them, various methods of post-processing have been proposed. These methods usually try to alleviate specific drawbacks of intrusion detection. We propose a system that is a post-processing solution. The input of our system is a set of multiple IDS sensors alert sets. Each set's alerts are aggregated in order to improve their quality, before multiple alert sets merge into one general alert set. Then, a low clustering procedure allows the system to hypothesize about missed security events and to create relevant alerts. The main clustering phase comes next, before the final step, in which a clusters graph is generated to produce a high level presentation of the security events. The system has been tested using the DARPA 2000 dataset, as well as a live network dataset, and has produced satisfactory results.
+Keywords: Intrusion detection systems; Aggregation; Correlation; Prediction; Visualization

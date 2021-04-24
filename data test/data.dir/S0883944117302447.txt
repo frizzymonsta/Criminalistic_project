@@ -1,0 +1,18 @@
+Adrian Wong, Mary G. Amato, Diane L. Seger, Sarah P. Slight, Patrick E. Beeler, Patricia C. Dykes, Julie M. Fiskio, Elizabeth R. Silvers, E. John Orav, Tewodros Eguale, David W. Bates,
+Evaluation of medication-related clinical decision support alert overrides in the intensive care unit,
+Journal of Critical Care,
+Volume 39,
+2017,
+Pages 156-161,
+ISSN 0883-9441,
+https://doi.org/10.1016/j.jcrc.2017.02.027.
+(https://www.sciencedirect.com/science/article/pii/S0883944117302447)
+Abstract: Purpose
+Medication-related clinical decision support (CDS) has been identified as a method to improve patient outcomes but is historically frequently overridden and may be inappropriately so. Patients in the intensive care unit (ICU) are at a higher risk of harm from adverse drug events (ADEs) and these overrides may increase patient harm. The objective of this study is to determine appropriateness of overridden medication-related CDS overrides in the ICU.
+Materials and methods
+We evaluated overridden medication-related alerts of four alert categories from January 2009 to December 2011. The primary outcome was the appropriateness of a random sample of overrides based on predetermined criteria. Secondary outcomes included the incidence of adverse drug events (ADEs) that resulted from the overridden alert.
+Results
+A total of 47,449 overridden alerts were included for evaluation. The appropriateness rate for overridden alerts varied by alert category (allergy: 94%, drug-drug interaction: 84%, geriatric: 57%, renal: 27%). A total of seven actual ADEs were identified in the random sample and where the medication(s) was administered (n=366), with an increased risk of ADEs associated with inappropriately overridden alerts (p=0.0078).
+Conclusions
+The appropriateness of medication-related clinical decision support overrides in the ICU varied substantially by the type of alert. Inappropriately overridden alerts were associated with an increased risk of ADEs compared to appropriately overridden alerts.
+Keywords: Adverse drug event; Clinical decision support; Critical care; Patient safety; Quality of care
